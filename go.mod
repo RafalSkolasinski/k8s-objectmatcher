@@ -1,4 +1,4 @@
-module github.com/cisco-open/k8s-objectmatcher
+module github.com/RafalSkolasinski/k8s-objectmatcher
 
 go 1.22
 
